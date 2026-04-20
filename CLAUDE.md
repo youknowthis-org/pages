@@ -18,7 +18,7 @@ python3 -m http.server 8080
 
 All pages are self-contained HTML files with inline styles. Shared assets live in `images/`.
 
-- `index.html` — Landing page with logo and links to legal docs and contact email (hey@youknowthis.io)
+- `index.html` — Landing page with logo and links to legal docs and contact email (office@fuchs.sh)
 - `privacy.html` / `terms-of-service.html` — Legal documents (generated from a template tool, not hand-authored)
 - `images/logo.svg` / `images/fav.svg` — Identical SVG used as logo and favicon
 
